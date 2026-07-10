@@ -1,0 +1,27 @@
+# MySQL Workbench files
+*.mwb
+
+# SQL backup files
+*.sql.bak
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment files
+.env
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
