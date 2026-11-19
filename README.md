@@ -123,20 +123,6 @@ The project can generate reports such as:
 
 ---
 
-## 👩‍💻 Author
-
-**Ruchitha M**
-
-Bachelor of Engineering
-
-Information Science and Engineering
-
-SJB Institute of Technology, Bengaluru
-
-Academic Year: 2025–2026
-
----
-
 ## 📄 License
 
 This project is developed for educational and academic purposes.
